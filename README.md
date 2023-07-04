@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm currently working on a system to be used for my family business. <br>🌱 I’m currently learning more about Web Development, especially on the backend side.<br>📫 How to reach me **cepeprecious00@gmail.com**.
+👩‍💻 I'm currently working on a system to be used for my family business. <br>🌱 I’m currently learning more about Web Development, especially on the backend side.<br>🌱 Also currently learning WordPress Development.<br>📫 How to reach me **cepeprecious00@gmail.com**.
 
 
 ## 🌐 Socials:
